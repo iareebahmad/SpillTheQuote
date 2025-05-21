@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#00bcd4"            # Bright cyan-blue for buttons and highlights
+backgroundColor = "#fff3e0"         # Soft, creamy orange background
+secondaryBackgroundColor = "#d0f0c0"  # Light green for cards/sidebars
+textColor = "#1a1a1a"               # Deep gray text for contrast
+font = "sans serif"

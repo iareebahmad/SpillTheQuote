@@ -10,6 +10,4 @@ Welcome to Spill The Quote — a sleek, one-click web app that scrapes inspirati
 
 🎨 Custom Streamlit theme with orange, blue, and mint-green aesthetics
 
-🖼️ Logo support (right-aligned) for personal branding
-
 ⚡ Lightweight and fast — no database, no fuss

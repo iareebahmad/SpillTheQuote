@@ -10,7 +10,7 @@ st.title("Spill The Quote")
 st.markdown("Quotes and Authors from [quotes.toscrape.com](http://quotes.toscrape.com)")
 
 
-# Trigger Button for Scraping 
+# Trigger Button for Scraping
 if st.button("Scrap It!"):
     # Making request to the website
     url = "http://quotes.toscrape.com"
